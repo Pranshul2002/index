@@ -14,7 +14,16 @@ This project involves the creation of a custom index comprising the top 100 US s
 
 ## Project Structure
 
-├── data/ # Folder containing data-related files ├── pycache/ # Compiled Python files (auto-generated) ├── helper.py # Helper functions for data processing ├── constants.py # Constants used throughout the project ├── db.py # Database connection and query handling (DuckDB) ├── index.py # Logic for constructing and updating the custom index ├── main.py # Main entry point for running the application ├── requirements.txt # List of Python dependencies ├── run.ksh # Shell script for running the project └── readme.md # This README file
+├── data/ # Folder containing data-related files 
+├── pycache/ # Compiled Python files (auto-generated) 
+├── helper.py # Helper functions for data processing 
+├── constants.py # Constants used throughout the project 
+├── db.py # Database connection and query handling (DuckDB) 
+├── index.py # Logic for constructing and updating the custom index 
+├── main.py # Main entry point for running the application 
+├── requirements.txt # List of Python dependencies 
+├── run.ksh # Shell script for running the project 
+└── readme.md # This README file
 
 
 ## Dependencies
